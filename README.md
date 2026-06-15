@@ -15,15 +15,17 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 Hi, I'm Allie 
 
 I work with all skin tones and face shapes. Every look is customized to you.
-*Soft Glam* 
-Dewy skin, defined lashes, neutral-to-warm tones
-*Editorial*
-Bold, creative looks for shoots and events
-*Everyday Glam*
-Wearable, polished looks for day-to-day
-*Special Occasion*
-Weddings, quinceañeras, proms, events
-
+<div align="center">
+  *Soft Glam* <br>
+  Dewy skin, defined lashes, neutral-to-warm tones <br>
+  *Editorial* <br>
+  Bold, creative looks for shoots and events <br>
+  *Everyday Glam* <br>
+  Wearable, polished looks for day-to-day <br>
+  *Special Occasion* <br>
+  Weddings, quinceañeras, proms, events
+</div>
+  
 ---
 
 ## Services
