@@ -8,7 +8,7 @@
 
 Based in the Pacific Northwest &nbsp;|&nbsp; Available for bookings
 
-[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/alliekatt.jpg.makeup)
+[![Instagram](https://img.shields.io/badge/https://www.instagram.com/alliekatt.jpg.makeup?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)](https://instagram.com/alliekatt.jpg.makeup) <!---E1306C?style=flat&logo=instagram&logoColor=white-->
 
 </div>
 
