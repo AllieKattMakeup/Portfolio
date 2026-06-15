@@ -15,7 +15,14 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 Hi, I'm Allie 
 
 I work with all skin tones and face shapes. Every look is customized to you.
-
+*Soft Glam* 
+Dewy skin, defined lashes, neutral-to-warm tones
+*Editorial*
+Bold, creative looks for shoots and events
+*Everyday Glam*
+Wearable, polished looks for day-to-day
+*Special Occasion*
+Weddings, quinceañeras, proms, events
 ---
 
 ## Services
@@ -23,13 +30,6 @@ I work with all skin tones and face shapes. Every look is customized to you.
 <!-- Calendly inline widget -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/alliekattmakeup" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-| Service | Description |
-|---|---|
-| **Soft Glam** | Dewy skin, defined lashes, neutral-to-warm tones |
-| **Editorial** | Bold, creative looks for shoots and events |
-| **Everyday Glam** | Wearable, polished looks for day-to-day |
-| **Special Occasion** | Weddings, quinceañeras, proms, events |
 
 <form action="[https://formspree.io/f/YOUR_FORM_ID](https://formspree.io/f/mykaoayl)" method="POST" style="max-width:500px;margin:0 auto;">
   <input type="text" name="name" placeholder="Your name" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
