@@ -16,13 +16,13 @@ Hi, I'm Allie
 
 I work with all skin tones and face shapes. Every look is customized to you.
 <div align="center">
-  *Soft Glam* <br>
+  <i>Soft Glam</i> <br>
   Dewy skin, defined lashes, neutral-to-warm tones <br>
-  *Editorial* <br>
+  <i>Editorial</i> <br>
   Bold, creative looks for shoots and events <br>
-  *Everyday Glam* <br>
+  <i>Everyday Glam</i> <br>
   Wearable, polished looks for day-to-day <br>
-  *Special Occasion* <br>
+  <i>Special Occasion</i> <br>
   Weddings, quinceañeras, proms, events
 </div>
   
