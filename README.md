@@ -5,18 +5,14 @@
 <div style="width:100%;height:220px;background:linear-gradient(135deg,#f2cfe0,#d4a5bf);background-image:url('images/banner.jpg');background-size:cover;background-position:center;border-radius:10px;margin-bottom:2rem;"></div>
 
 <div style="text-align:center;">
-
-<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1 rem;" alt="Allie — Makeup Artist">
-
-# Makeup by Allie
+<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1rem;" alt="Allie — Makeup Artist">
+</div>
 
 *Soft glam · Editorial · Everyday looks · Special occasions*
 
-Based in Denver &nbsp;|&nbsp; Available for bookings
+Based in Denver &nbsp;\|&nbsp; Available for bookings
 
-[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup) <!---E1306C?style=flat&logo=instagram&logoColor=white-->
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup)
 
 ---
 
