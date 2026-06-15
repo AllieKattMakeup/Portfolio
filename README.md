@@ -20,6 +20,10 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 ## Services
 
+<!-- Calendly inline widget -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/alliekattmakeup" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
 | Service | Description |
 |---|---|
 | **Soft Glam** | Dewy skin, defined lashes, neutral-to-warm tones |
