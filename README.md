@@ -6,7 +6,7 @@
 
 <div style="text-align:center;">
 
-<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1rem;" alt="Allie — Makeup Artist">
+<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1 rem;" alt="Allie — Makeup Artist">
 
 # Makeup by Allie
 
