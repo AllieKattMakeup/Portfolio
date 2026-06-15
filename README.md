@@ -31,6 +31,13 @@ I work with all skin tones and face shapes. Every look is customized to you.
 | **Everyday Glam** | Wearable, polished looks for day-to-day |
 | **Special Occasion** | Weddings, quinceañeras, proms, events |
 
+<form action="[https://formspree.io/f/YOUR_FORM_ID](https://formspree.io/f/mykaoayl)" method="POST" style="max-width:500px;margin:0 auto;">
+  <input type="text" name="name" placeholder="Your name" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
+  <input type="email" name="email" placeholder="Your email" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
+  <textarea name="message" placeholder="Tell me about your look..." rows="4" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"></textarea><br>
+  <button type="submit" style="background:#1e1e1e;color:#fff;padding:0.6rem 1.5rem;border:none;border-radius:6px;cursor:pointer;">Send Message</button>
+</form>
+
 ---
 
 ## Featured Look — Soft Glam
