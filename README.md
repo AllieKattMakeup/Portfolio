@@ -121,11 +121,11 @@ I work with all skin tones and face shapes. Every look is customized to you.
 <script>
 (function() {
   var slides = [
-    { src: "../images/frontbase.png",  label: "Before",          caption: "Bare skin, no makeup" },
-    { src: "../images/frontopen.png",  label: "After",           caption: "Full look — eyes open" },
-    { src: "../images/frontupped.png", label: "After",           caption: "Eyeshadow detail — eyes closed" },
-    { src: "../images/betteriso.png",  label: "After",           caption: "Three-quarter angle" },
-    { src: "../images/isoangle.png",   label: "After",           caption: "Side angle" }
+    { src: "images/frontbase.png",  label: "Before",          caption: "Bare skin, no makeup" },
+    { src: "images/frontopen.png",  label: "After",           caption: "Full look — eyes open" },
+    { src: "images/frontupped.png", label: "After",           caption: "Eyeshadow detail — eyes closed" },
+    { src: "images/betteriso.png",  label: "After",           caption: "Three-quarter angle" },
+    { src: "images/isoangle.png",   label: "After",           caption: "Side angle" }
   ];
   var cur = 0;
   var img    = document.getElementById("glam-img");
@@ -162,7 +162,7 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 ## More Work
 
-<img src="../images/single.png" width="380" alt="Look — bold and confident">
+<img src="images/single.png" width="380" alt="Look — bold and confident">
 
 ---
 
@@ -170,8 +170,8 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 Interested in working together? Reach out via Instagram DM or email to check availability and pricing.
 
-- **Instagram:** [@amorAllie](https://instagram.com/yourinstagram)
-- **Email:** your@email.com
+- **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- **Email:** alliekattmakeup@gmail.com
 
 > *All looks are done with professional-grade products. Skin prep and aftercare tips included with every session.*
 
