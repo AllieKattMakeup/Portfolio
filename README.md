@@ -23,6 +23,7 @@ Bold, creative looks for shoots and events
 Wearable, polished looks for day-to-day
 *Special Occasion*
 Weddings, quinceañeras, proms, events
+
 ---
 
 ## Services
