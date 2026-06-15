@@ -1,11 +1,5 @@
-<!-- =====================================================================
-     BANNER: drop your banner image into the images/ folder, then replace
-     "images/YOUR_BANNER_HERE.jpg" below and remove the comment markers.
-     ===================================================================== -->
-<div style="width:100%;height:220px;background:linear-gradient(135deg,#f2cfe0,#d4a5bf);background-image:url('images/banner.jpg');background-size:cover;background-position:center;border-radius:10px;margin-bottom:2rem;"></div>
-
 <div style="text-align:center;">
-<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1rem;" alt="Allie — Makeup Artist">
+<img src="images/baddieallie.png" style="border-radius:50%;display:block;margin:0 auto 1rem;width:50%;max-width:320px;" alt="Allie — Makeup Artist">
 </div>
 
 *Soft glam · Editorial · Everyday looks · Special occasions*
