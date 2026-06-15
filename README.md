@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../images/baddieallie.png" width="200" style="border-radius: 50%;" alt="Allie — Makeup Artist">
+<img src="images/baddieallie.png" width="200" style="border-radius: 50%;" alt="Allie — Makeup Artist">
 
 # Makeup by Allie
 
