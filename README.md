@@ -12,7 +12,7 @@
 
 *Soft glam · Editorial · Everyday looks · Special occasions*
 
-Based in the Pacific Northwest &nbsp;|&nbsp; Available for bookings
+Based in Denver &nbsp;|&nbsp; Available for bookings
 
 [![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup) <!---E1306C?style=flat&logo=instagram&logoColor=white-->
 
