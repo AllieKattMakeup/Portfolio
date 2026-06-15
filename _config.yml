@@ -1,21 +1,11 @@
 title: Makeup by Allie
-description: 
-theme: jekyll-theme-beautiful
-
-logo: /images/baddieallie.png
+description: Soft Glam • Editorial • Special Occasions • Pacific Northwest
+theme: jekyll-theme-cayman
 
 show_downloads: false
 
-social_links:
-  instagram: yourinstagram
-  github: yourgithub
+github_username:
+twitter_username:
 
-collections:
-  nails:
-    output: true
-  paintings:
-    output: true
-  clothing:
-    output: true
-  sculpture:
-    output: true
+plugins:
+  - jekyll-seo-tag
