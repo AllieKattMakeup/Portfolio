@@ -165,9 +165,51 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 ## Book a Session
 
-Interested in working together? Reach out via Instagram DM or email to check availability and pricing.
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 
-- **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+<div style="text-align:center;margin:2rem 0;">
+  <p style="font-size:1.05rem;margin-bottom:1.25rem;">Ready to get glam? Pick a time that works for you — no back and forth needed.</p>
+  <button onclick="Calendly.initPopupWidget({url:'https://calendly.com/YOUR_CALENDLY_USERNAME'});return false;"
+    style="background:#1e1e1e;color:#fff;padding:0.75rem 2rem;border:none;border-radius:8px;cursor:pointer;font-size:1rem;letter-spacing:0.04em;">
+    Book a Session
+  </button>
+</div>
+
+---
+
+## Get in Touch
+
+<div style="max-width:500px;margin:0 auto;">
+
+<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+  <div style="margin-bottom:0.75rem;">
+    <input type="text" name="name" placeholder="Your name" required
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
+  </div>
+  <div style="margin-bottom:0.75rem;">
+    <input type="email" name="email" placeholder="Your email" required
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
+  </div>
+  <div style="margin-bottom:0.75rem;">
+    <input type="text" name="occasion" placeholder="What's the occasion? (wedding, prom, shoot...)"
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
+  </div>
+  <div style="margin-bottom:1rem;">
+    <textarea name="message" placeholder="Tell me about your look..." rows="4" required
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;resize:vertical;"></textarea>
+  </div>
+  <button type="submit"
+    style="width:100%;background:#1e1e1e;color:#fff;padding:0.75rem;border:none;border-radius:8px;cursor:pointer;font-size:1rem;letter-spacing:0.04em;">
+    Send Message
+  </button>
+</form>
+
+</div>
+
+---
+
+- **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup)
 - **Email:** alliekattmakeup@gmail.com
 
 > *All looks are done with professional-grade products. Skin prep and aftercare tips included with every session.*
