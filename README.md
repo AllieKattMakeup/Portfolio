@@ -168,7 +168,7 @@ I work with all skin tones and face shapes. Every look is customized to you.
 ## More Work
 
 <div style="text-align:center;">
-<img src="images/single.png" width=100% style="border-radius:8px;" alt="Look — bold and confident">
+<img src="images/single.png" width="380" style="border-radius:8px;" alt="Look — bold and confident">
 </div>
 
 ---
