@@ -1,6 +1,12 @@
-<div align="center">
+<!-- =====================================================================
+     BANNER: drop your banner image into the images/ folder, then replace
+     "images/YOUR_BANNER_HERE.jpg" below and remove the comment markers.
+     ===================================================================== -->
+<div style="width:100%;height:220px;background:linear-gradient(135deg,#f2cfe0,#d4a5bf);background-image:url('images/YOUR_BANNER_HERE.jpg');background-size:cover;background-position:center;border-radius:10px;margin-bottom:2rem;"></div>
 
-<img src="images/baddieallie.png" width="200" style="border-radius: 50%;" alt="Allie — Makeup Artist">
+<div style="text-align:center;">
+
+<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1rem;" alt="Allie — Makeup Artist">
 
 # Makeup by Allie
 
@@ -107,7 +113,7 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 <div class="glam-carousel">
   <div id="glam-label" class="glam-label">Before</div>
-  <img id="glam-img" src="../images/frontbase.png" alt="Before — bare face">
+  <img id="glam-img" src="images/frontbase.png" alt="Before — bare face">
   <div id="glam-caption" class="glam-caption">Bare skin, no makeup</div>
   <div class="glam-nav">
     <button onclick="glamMove(-1)">&#8592;</button>
@@ -161,7 +167,9 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 ## More Work
 
-<img src="images/single.png" width="380" alt="Look — bold and confident">
+<div style="text-align:center;">
+<img src="images/single.png" width="380" style="border-radius:8px;" alt="Look — bold and confident">
+</div>
 
 ---
 
