@@ -1,3 +1,3 @@
-# ~Makeup by Allie~
+# Makeup by Allie
 
 
