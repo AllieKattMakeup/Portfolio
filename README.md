@@ -2,7 +2,7 @@
      BANNER: drop your banner image into the images/ folder, then replace
      "images/YOUR_BANNER_HERE.jpg" below and remove the comment markers.
      ===================================================================== -->
-<div style="width:100%;height:220px;background:linear-gradient(135deg,#f2cfe0,#d4a5bf);background-image:url('images/YOUR_BANNER_HERE.jpg');background-size:cover;background-position:center;border-radius:10px;margin-bottom:2rem;"></div>
+<div style="width:100%;height:220px;background:linear-gradient(135deg,#f2cfe0,#d4a5bf);background-image:url('images/banner.jpg');background-size:cover;background-position:center;border-radius:10px;margin-bottom:2rem;"></div>
 
 <div style="text-align:center;">
 
