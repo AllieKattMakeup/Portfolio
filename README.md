@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../images/single.png" width="200" style="border-radius: 50%;" alt="Allie — Makeup Artist">
+<img src="../images/baddieallie.png" width="200" style="border-radius: 50%;" alt="Allie — Makeup Artist">
 
 # Makeup by Allie
 
@@ -8,7 +8,7 @@
 
 Based in the Pacific Northwest &nbsp;|&nbsp; Available for bookings
 
-[![Instagram](https://img.shields.io/badge/Instagram-@amorAllie-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
+[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/alliekatt.jpg.makeup)
 
 </div>
 
@@ -16,7 +16,7 @@ Based in the Pacific Northwest &nbsp;|&nbsp; Available for bookings
 
 ## About Me
 
-Hi, I'm Allie — a self-taught makeup artist with a passion for enhancing natural beauty. My style leans toward soft glam: luminous skin, blended eyes, and looks that feel effortless but finished. Whether you're getting ready for a special event, a photoshoot, or just want a new everyday look, I love making people feel confident and beautiful in their own skin.
+Hi, I'm Allie 
 
 I work with all skin tones and face shapes. Every look is customized to you.
 
@@ -56,7 +56,7 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 ## More Work
 
-<img src="../images/baddieallie.png" width="380" alt="Look — bold and confident">
+<img src="../images/single.png" width="380" alt="Look — bold and confident">
 
 ---
 
