@@ -222,12 +222,12 @@ I work with all skin tones and face shapes. Every look is customized to you ~
 </form>
 
 </div>
--->
----
 
+---
+-->
 - **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup)
 - **Email:** alliekattmakeup@gmail.com
 
-> *All looks are done with professional-grade products. Skin prep and aftercare tips included with every session.*
+> *All looks are done with professional-grade products.*
 
 
