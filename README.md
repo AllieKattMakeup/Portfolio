@@ -28,7 +28,7 @@ I work with all skin tones and face shapes. Every look is customized to you.
   
 ---
 
-<center>## Services</center>
+## Services
 
 <!-- Calendly inline widget -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/alliekattmakeup" style="min-width:320px;height:700px;"></div>
@@ -43,9 +43,9 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 ---
 
-<center>## Featured Look — Soft Glam</center>
+## Featured Look — Soft Glam
 
-<center> > Olive shimmer eye · Cat liner wing · Dewy skin · Neutral lip </center>
+> Olive shimmer eye · Cat liner wing · Dewy skin · Neutral lip 
 
 <style>
 .glam-carousel {
