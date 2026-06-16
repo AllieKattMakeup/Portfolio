@@ -14,7 +14,9 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 
 Hi, I'm Allie 
 
-I work with all skin tones and face shapes. Every look is customized to you.
+I work with all skin tones and face shapes. Every look is customized to you ~ 
+
+
 <div align="center">
   <i>Soft Glam</i> <br>
   Dewy skin, defined lashes, neutral-to-warm tones <br>
