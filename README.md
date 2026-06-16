@@ -10,7 +10,7 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 
 ---
 
-<center>## About Me</center>
+## About Me
 
 Hi, I'm Allie 
 
