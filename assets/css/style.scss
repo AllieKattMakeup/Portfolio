@@ -1,14 +1,11 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
-/* existing banner background code */
-.page-header { 
-  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('{{ "/images/banner.jpg" | prepend: site.baseurl }}') center / cover no-repeat !important; 
-}
-
-.header-content .btn, 
-header .btn, 
-.page-header .btn {
-  display: none !important;
+.page-header {
+  background-image: url('/images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
 }

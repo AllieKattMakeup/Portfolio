@@ -1,3 +1,4 @@
+
 <div style="text-align:center;">
 <img src="images/baddieallie.png" style="border-radius:50%;display:block;margin:0 auto 1rem;width:50%;max-width:320px;" alt="Allie — Makeup Artist">
 </div>
