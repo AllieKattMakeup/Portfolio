@@ -1,17 +1,13 @@
 
 <div style="text-align:center;">
-
-<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1rem;" alt="Allie — Makeup Artist">
-
-# Makeup by Allie
+<img src="images/baddieallie.png" style="border-radius:50%;display:block;margin:0 auto 1rem;width:50%;max-width:320px;" alt="Allie — Makeup Artist">
+</div>
 
 *Soft glam · Editorial · Everyday looks · Special occasions*
 
-Based in the Pacific Northwest &nbsp;|&nbsp; Available for bookings
+Based in Denver &nbsp;\|&nbsp; Available for bookings
 
-[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup) <!---E1306C?style=flat&logo=instagram&logoColor=white-->
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup)
 
 ---
 
@@ -19,24 +15,39 @@ Based in the Pacific Northwest &nbsp;|&nbsp; Available for bookings
 
 Hi, I'm Allie 
 
-I work with all skin tones and face shapes. Every look is customized to you.
+I work with all skin tones and face shapes. Every look is customized to you ~ 
 
+
+<div align="center">
+  <i>Soft Glam</i> <br>
+  Dewy skin, defined lashes, neutral-to-warm tones <br>
+  <i>Editorial</i> <br>
+  Bold, creative looks for shoots and events <br>
+  <i>Everyday Glam</i> <br>
+  Wearable, polished looks for day-to-day <br>
+  <i>Special Occasion</i> <br>
+  Weddings, quinceañeras, proms, events
+</div>
+  
 ---
 
-## Services
+<!--## Services -->
 
-| Service | Description |
-|---|---|
-| **Soft Glam** | Dewy skin, defined lashes, neutral-to-warm tones |
-| **Editorial** | Bold, creative looks for shoots and events |
-| **Everyday Glam** | Wearable, polished looks for day-to-day |
-| **Special Occasion** | Weddings, quinceañeras, proms, events |
+<form action="[https://formspree.io/f/YOUR_FORM_ID](https://formspree.io/f/mykaoayl)" method="POST" style="max-width:500px;margin:0 auto;">
+  <input type="text" name="name" placeholder="Your name" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
+  <input type="email" name="email" placeholder="Your email" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
+  <textarea name="message" placeholder="Tell me about your look..." rows="4" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"></textarea><br>
+  <button type="submit" style="background:#1e1e1e;color:#fff;padding:0.6rem 1.5rem;border:none;border-radius:6px;cursor:pointer;">Send Message</button>
+</form> 
+<!-- Calendly inline widget -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/alliekattmakeup" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> 
 
 ---
 
 ## Featured Look — Soft Glam
 
-> Olive shimmer eye · Cat liner wing · Dewy skin · Neutral lip
+> Olive shimmer eye · Cat liner wing · Dewy skin · Neutral lip 
 
 <style>
 .glam-carousel {
@@ -167,14 +178,56 @@ I work with all skin tones and face shapes. Every look is customized to you.
 </div>
 
 ---
-
+<!--
 ## Book a Session
 
-Interested in working together? Reach out via Instagram DM or email to check availability and pricing.
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 
-- **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+<div style="text-align:center;margin:2rem 0;">
+  <p style="font-size:1.05rem;margin-bottom:1.25rem;">Ready to get glam? Pick a time that works for you — no back and forth needed.</p>
+  <button onclick="Calendly.initPopupWidget({url:'https://calendly.com/YOUR_CALENDLY_USERNAME'});return false;"
+    style="background:#1e1e1e;color:#fff;padding:0.75rem 2rem;border:none;border-radius:8px;cursor:pointer;font-size:1rem;letter-spacing:0.04em;">
+    Book a Session
+  </button>
+</div>
+
+---
+
+## Get in Touch
+
+<div style="max-width:500px;margin:0 auto;">
+
+<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+  <div style="margin-bottom:0.75rem;">
+    <input type="text" name="name" placeholder="Your name" required
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
+  </div>
+  <div style="margin-bottom:0.75rem;">
+    <input type="email" name="email" placeholder="Your email" required
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
+  </div>
+  <div style="margin-bottom:0.75rem;">
+    <input type="text" name="occasion" placeholder="What's the occasion? (wedding, prom, shoot...)"
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
+  </div>
+  <div style="margin-bottom:1rem;">
+    <textarea name="message" placeholder="Tell me about your look..." rows="4" required
+      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;resize:vertical;"></textarea>
+  </div>
+  <button type="submit"
+    style="width:100%;background:#1e1e1e;color:#fff;padding:0.75rem;border:none;border-radius:8px;cursor:pointer;font-size:1rem;letter-spacing:0.04em;">
+    Send Message
+  </button>
+</form>
+
+</div>
+
+---
+-->
+- **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup)
 - **Email:** alliekattmakeup@gmail.com
 
-> *All looks are done with professional-grade products. Skin prep and aftercare tips included with every session.*
+> *All looks are done with professional-grade products.*
 
 
