@@ -13,7 +13,7 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 
 ## About Me
 
-Hi, I’m Allie 
+Hi, I’m Allie. 
 I believe makeup should enhance your features, not hide them. Every look is customized to your unique face shape, features, and skin tone to help you feel like the best version of yourself.
 I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Whether you're after glowy skin and fluttery lashes, a bold, creative look, or something fresh and effortlessly polished, every application is tailored to your unique features, style, and vision.
 <div align="center">
