@@ -13,7 +13,7 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 
 ## About Me
 
-Hi, I’m Allie ♡
+Hi, I’m Allie <span>&#9825;</span>
 I believe makeup should enhance your features, not hide them. Every look is customized to your unique face shape, features, and skin tone to help you feel like the best version of yourself.
 Soft Glam
 Glowy skin, fluttery lashes, and effortless, timeless beauty.
@@ -32,8 +32,6 @@ Whether you're trying something new, experimenting with a trend, or have a speci
   Bold, creative looks for shoots and events <br>
   <i>Everyday Glam</i> <br>
   Wearable, polished looks for day-to-day <br>
-  <i>Special Occasion</i> <br>
-  Weddings, quinceañeras, proms, events
 </div>
   
 ---
