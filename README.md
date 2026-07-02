@@ -15,16 +15,7 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 
 Hi, I’m Allie 
 I believe makeup should enhance your features, not hide them. Every look is customized to your unique face shape, features, and skin tone to help you feel like the best version of yourself.
-Soft Glam
-Glowy skin, fluttery lashes, and effortless, timeless beauty.
-Editorial
-Creative, artistic looks with bold details and high-fashion inspiration.
-Everyday Glam
-Fresh, polished makeup that's elevated while still feeling like you.
-Custom Looks
-Whether you're trying something new, experimenting with a trend, or have a specific vision in mind, we'll create a look that's uniquely yours.
-
-
+I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Whether you're after glowy skin and fluttery lashes, a bold, creative look, or something fresh and effortlessly polished, every application is tailored to your unique features, style, and vision.
 <div align="center">
   <i>Soft Glam</i> <br>
   Dewy skin, defined lashes, neutral-to-warm tones <br>
