@@ -9,7 +9,6 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 
 [![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup)
 
----
 
 ## About Me
 
@@ -17,10 +16,11 @@ Hi, I’m Allie.
 I believe makeup should enhance your features, not hide them. Every look is customized to your unique face shape, features, and skin tone to help you feel like the best version of yourself.
 I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Whether you're after glowy skin and fluttery lashes, a bold, creative look, or something fresh and effortlessly polished, every application is tailored to your unique features, style, and vision.
 <div align="center"> 
----
+
+  
 <!--## Services -->
 
-<form action="[https://formspree.io/f/YOUR_FORM_ID](https://formspree.io/f/mykaoayl)" method="POST" style="max-width:500px;margin:0 auto;">
+<form action="https://formspree.io/f/mykaoayl"
   <input type="text" name="name" placeholder="Your name" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
   <input type="email" name="email" placeholder="Your email" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
   <textarea name="message" placeholder="Tell me about your look..." rows="4" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"></textarea><br>
