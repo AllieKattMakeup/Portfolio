@@ -9,32 +9,29 @@ Based in Denver &nbsp;\|&nbsp; Available for bookings
 
 [![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup)
 
-
 ## About Me
 
-Hi, I’m Allie. 
+Hi, I'm Allie.
 I believe makeup should enhance your features, not hide them. Every look is customized to your unique face shape, features, and skin tone to help you feel like the best version of yourself.
 I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Whether you're after glowy skin and fluttery lashes, a bold, creative look, or something fresh and effortlessly polished, every application is tailored to your unique features, style, and vision.
-<div align="center"> 
 
-  
-<!--## Services -->
-
-<form action="https://formspree.io/f/mykaoayl"
+<div align="center">
+<form action="https://formspree.io/f/mykaoayl" method="POST" style="max-width:500px;margin:0 auto;">
   <input type="text" name="name" placeholder="Your name" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
   <input type="email" name="email" placeholder="Your email" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
   <textarea name="message" placeholder="Tell me about your look..." rows="4" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"></textarea><br>
   <button type="submit" style="background:#1e1e1e;color:#fff;padding:0.6rem 1.5rem;border:none;border-radius:6px;cursor:pointer;">Send Message</button>
-</form> 
-<!-- Calendly inline widget -->
+</form>
+
 <div class="calendly-inline-widget" data-url="https://calendly.com/alliekattmakeup" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> 
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+</div>
 
 ---
 
 ## Featured Look — Soft Glam
 
-> Olive shimmer eye · Cat liner wing · Dewy skin · Neutral lip 
+> Olive shimmer eye · Cat liner wing · Dewy skin · Neutral lip
 
 <style>
 .glam-carousel {
@@ -119,11 +116,11 @@ I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Wh
 <script>
 (function() {
   var slides = [
-    { src: "images/frontbase.png",  label: "Before",          caption: "Bare skin, no makeup" },
-    { src: "images/frontopen.png",  label: "After",           caption: "Full look — eyes open" },
-    { src: "images/frontupped.png", label: "After",           caption: "Eyeshadow detail — eyes closed" },
-    { src: "images/betteriso.png",  label: "After",           caption: "Three-quarter angle" },
-    { src: "images/isoangle.png",   label: "After",           caption: "Side angle" }
+    { src: "images/frontbase.png",  label: "Before", caption: "Bare skin, no makeup" },
+    { src: "images/frontopen.png",  label: "After",  caption: "Full look — eyes open" },
+    { src: "images/frontupped.png", label: "After",  caption: "Eyeshadow detail — eyes closed" },
+    { src: "images/betteriso.png",  label: "After",  caption: "Three-quarter angle" },
+    { src: "images/isoangle.png",   label: "After",  caption: "Side angle" }
   ];
   var cur = 0;
   var img    = document.getElementById("glam-img");
@@ -141,8 +138,8 @@ I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Wh
 
   function glamGoTo(n) {
     cur = (n + slides.length) % slides.length;
-    img.src      = slides[cur].src;
-    img.alt      = slides[cur].caption;
+    img.src           = slides[cur].src;
+    img.alt           = slides[cur].caption;
     label.textContent = slides[cur].label;
     cap.textContent   = slides[cur].caption;
     curEl.textContent = cur + 1;
@@ -165,53 +162,7 @@ I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Wh
 </div>
 
 ---
-<!--
-## Book a Session
 
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-
-<div style="text-align:center;margin:2rem 0;">
-  <p style="font-size:1.05rem;margin-bottom:1.25rem;">Ready to get glam? Pick a time that works for you — no back and forth needed.</p>
-  <button onclick="Calendly.initPopupWidget({url:'https://calendly.com/YOUR_CALENDLY_USERNAME'});return false;"
-    style="background:#1e1e1e;color:#fff;padding:0.75rem 2rem;border:none;border-radius:8px;cursor:pointer;font-size:1rem;letter-spacing:0.04em;">
-    Book a Session
-  </button>
-</div>
-
----
-
-## Get in Touch
-
-<div style="max-width:500px;margin:0 auto;">
-
-<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
-  <div style="margin-bottom:0.75rem;">
-    <input type="text" name="name" placeholder="Your name" required
-      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
-  </div>
-  <div style="margin-bottom:0.75rem;">
-    <input type="email" name="email" placeholder="Your email" required
-      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
-  </div>
-  <div style="margin-bottom:0.75rem;">
-    <input type="text" name="occasion" placeholder="What's the occasion? (wedding, prom, shoot...)"
-      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;">
-  </div>
-  <div style="margin-bottom:1rem;">
-    <textarea name="message" placeholder="Tell me about your look..." rows="4" required
-      style="width:100%;padding:0.65rem 0.9rem;border:1px solid #ddd;border-radius:8px;font-size:0.95rem;box-sizing:border-box;resize:vertical;"></textarea>
-  </div>
-  <button type="submit"
-    style="width:100%;background:#1e1e1e;color:#fff;padding:0.75rem;border:none;border-radius:8px;cursor:pointer;font-size:1rem;letter-spacing:0.04em;">
-    Send Message
-  </button>
-</form>
-
-</div>
-
----
--->
 - **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup)
 - **Email:** alliekattmakeup@gmail.com
 
