@@ -4,8 +4,24 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url('/images/banner.jpg');
+ background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+              url('{{ "/images/banner.jpg" | prepend: site.baseurl }}') center / cover no-repeat !important;
+  
+}
+
+.btn {
+  display: none !important;
+}
+
+.body {
+  background-image: url('{{ "/images/background.jpg" | prepend: site.baseurl }}');
   background-size: cover;
   background-position: center;
-  background-blend-mode: multiply;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.main-content {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 8px;
 }

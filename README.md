@@ -1,36 +1,31 @@
 
 <div style="text-align:center;">
-
-<img src="images/baddieallie.png" width="180" style="border-radius:50%;display:block;margin:0 auto 1rem;" alt="Allie — Makeup Artist">
-
-# Makeup by Allie
+<img src="images/baddieallie.png" style="border-radius:50%;display:block;margin:0 auto 1rem;width:50%;max-width:320px;" alt="Allie — Makeup Artist">
+</div>
 
 *Soft glam · Editorial · Everyday looks · Special occasions*
 
-Based in the Pacific Northwest &nbsp;|&nbsp; Available for bookings
+Based in Denver &nbsp;\|&nbsp; Available for bookings
 
-[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup) <!---E1306C?style=flat&logo=instagram&logoColor=white-->
-
-</div>
-
----
+[![Instagram](https://img.shields.io/badge/Instagram-@alliekatt.jpg.makeup-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alliekatt.jpg.makeup)
 
 ## About Me
 
-Hi, I'm Allie 
+Hi, I'm Allie.
+I believe makeup should enhance your features, not hide them. Every look is customized to your unique face shape, features, and skin tone to help you feel like the best version of yourself.
+I specialize in soft glam, editorial, everyday glam, and custom makeup looks. Whether you're after glowy skin and fluttery lashes, a bold, creative look, or something fresh and effortlessly polished, every application is tailored to your unique features, style, and vision.
 
-I work with all skin tones and face shapes. Every look is customized to you.
+<div align="center">
+<form action="https://formspree.io/f/mykaoayl" method="POST" style="max-width:500px;margin:0 auto;">
+  <input type="text" name="name" placeholder="Your name" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
+  <input type="email" name="email" placeholder="Your email" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"><br>
+  <textarea name="message" placeholder="Tell me about your look..." rows="4" required style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid #ddd;border-radius:6px;"></textarea><br>
+  <button type="submit" style="background:#1e1e1e;color:#fff;padding:0.6rem 1.5rem;border:none;border-radius:6px;cursor:pointer;">Send Message</button>
+</form>
 
----
-
-## Services
-
-| Service | Description |
-|---|---|
-| **Soft Glam** | Dewy skin, defined lashes, neutral-to-warm tones |
-| **Editorial** | Bold, creative looks for shoots and events |
-| **Everyday Glam** | Wearable, polished looks for day-to-day |
-| **Special Occasion** | Weddings, quinceañeras, proms, events |
+<div class="calendly-inline-widget" data-url="https://calendly.com/alliekattmakeup" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+</div>
 
 ---
 
@@ -121,11 +116,11 @@ I work with all skin tones and face shapes. Every look is customized to you.
 <script>
 (function() {
   var slides = [
-    { src: "images/frontbase.png",  label: "Before",          caption: "Bare skin, no makeup" },
-    { src: "images/frontopen.png",  label: "After",           caption: "Full look — eyes open" },
-    { src: "images/frontupped.png", label: "After",           caption: "Eyeshadow detail — eyes closed" },
-    { src: "images/betteriso.png",  label: "After",           caption: "Three-quarter angle" },
-    { src: "images/isoangle.png",   label: "After",           caption: "Side angle" }
+    { src: "images/frontbase.png",  label: "Before", caption: "Bare skin, no makeup" },
+    { src: "images/frontopen.png",  label: "After",  caption: "Full look — eyes open" },
+    { src: "images/frontupped.png", label: "After",  caption: "Eyeshadow detail — eyes closed" },
+    { src: "images/betteriso.png",  label: "After",  caption: "Three-quarter angle" },
+    { src: "images/isoangle.png",   label: "After",  caption: "Side angle" }
   ];
   var cur = 0;
   var img    = document.getElementById("glam-img");
@@ -143,8 +138,8 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
   function glamGoTo(n) {
     cur = (n + slides.length) % slides.length;
-    img.src      = slides[cur].src;
-    img.alt      = slides[cur].caption;
+    img.src           = slides[cur].src;
+    img.alt           = slides[cur].caption;
     label.textContent = slides[cur].label;
     cap.textContent   = slides[cur].caption;
     curEl.textContent = cur + 1;
@@ -168,13 +163,9 @@ I work with all skin tones and face shapes. Every look is customized to you.
 
 ---
 
-## Book a Session
-
-Interested in working together? Reach out via Instagram DM or email to check availability and pricing.
-
-- **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- **Instagram:** [@alliekatt.jpg.makeup](https://www.instagram.com/alliekatt.jpg.makeup)
 - **Email:** alliekattmakeup@gmail.com
 
-> *All looks are done with professional-grade products. Skin prep and aftercare tips included with every session.*
+> *All looks are done with professional-grade products.*
 
 
